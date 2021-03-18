@@ -13,7 +13,7 @@
 <br  />
 
 <ul>
-<li> 2021 Goal: Find a job</li>
+<li> 2021 Goal: Find a first IT job</li>
 <li>Hobbies: reading books, Football Manager, self-development</li>
 </ul>
 <br  />
