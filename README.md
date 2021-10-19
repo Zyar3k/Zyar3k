@@ -6,7 +6,7 @@
 
 <h3  align="center">Selected projects:</h3>
 
-## <p align="center"> :star: [Betty Craft Designs](https://online-shop-bcd.herokuapp.com/) :star: [Numerologia](https://numerologia.netlify.app/) :star: [Do zrobienia!](https://dozrobienia-app.netlify.app/) :star: [must2read](https://must2read.netlify.app/#/) :star: [Pogoda](https://agitated-aryabhata-cef99e.netlify.app/) :star: </p>
+## <p align="center"> :star: [Betty Craft Designs](https://online-shop-bcd.herokuapp.com/) :star: [Numerologia](https://numerologia.netlify.app/) :star: [Do zrobienia!](https://dozrobienia-app.netlify.app/) :star: [must2read](https://must2read.netlify.app/#/) :star: [Pogoda](https://agitated-aryabhata-cef99e.netlify.app/) :star: [Books](https://books2read.netlify.app/) </p>
 
 ## <p align="center"> :star: :star: [Portfolio]( https://zyar3k.github.io/portfolio/) :star: :star: </p>
 
