@@ -1,7 +1,5 @@
 ## <h1  align="center">Hi there, my name is Arek 👋</h1>
 
----
-
 <h3  align="center">I'm a learning full time to become software developer</h3>
 
 <h1 align="center">
@@ -12,8 +10,6 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="GitHub badge" />
 </a>
 </h1>
-
----
 
 <h3  align="center">Selected projects:</h3>
 <div align="center">
